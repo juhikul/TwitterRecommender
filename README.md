@@ -1,13 +1,13 @@
 # TwitterRecommender
-Web application to recommend best time to user to post on twitter
+Web application to recommend best time for user to post on twitter
 
-__Steps to run:__
+__Steps to run project:__
 
 1. Pull the project into workspace
 2. Fetch dependencies mentioned below and add them to build path
 3. Setup tomcat server (Reference: https://www.eclipse.org/webtools/jst/components/ws/1.0/tutorials/InstallTomcat/InstallTomcat.html)
 4. Deploy project with tomcat server
-5. Visit url: localhost:8080/TwitterTimeRecommender
+5. Visit url: http://localhost:8080/TwitterTimeRecommender
 6. Enter twitter UserId and hit 'Go'
 7. Response for best time would be displayed (all are in UTC)
 
